@@ -1,5 +1,5 @@
 # Datathon_2022
-Team Patata's solution for Qualcomms challenge
+[Team Patata's solution for Qualcomms challenge](https://devpost.com/software/qualcomm_project)
 
 # Statement
 # One driver to rule them all 
